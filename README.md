@@ -1,2 +1,2 @@
-# IMG
+# Wireframe
 Created with CodeSandbox
